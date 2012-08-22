@@ -1,6 +1,6 @@
 # List of ToDo Managers
 
-There are certainly thousands of Web-Based ToTo/Task/Note/Project/
+There are certainly thousands of **Web**-Based ToTo/Task/Note/Project/
 [GTD](https://en.wikipedia.org/wiki/Getting_Things_Done)-Managers
 out there in the world wide web.
 Almost each GUI framework starts with a ToDo-List programming example.
@@ -19,21 +19,22 @@ So go ahead and **add your links, ideas and thoughts**
 ### Open Source
 
 - http://getontracks.org/,
-  https://github.com/TracksApp                        (GPLv2,      Ruby, v2.1,             2012       )
+  https://github.com/TracksApp                        (GPLv2,      Ruby, v2.1,             2012)
 - http://www.mytinytodo.net/,
-  [demo](http://www.mytinytodo.net/demo/)             (GPLv3,      PHP,           v1.4.2,  2011, i18n )
-- http://www.taskfreak.com/                           (GPLv3,      PHP,           v0.6.4   2010, i18n )
-- http://collabtive.o-dyn.de/                         (GPL,        PHP,           v0.7.6,  2012       )
-- http://www.dotproject.net/                          (            PHP,           v2.1.5              )
-- http://addyosmani.github.com/todomvc/               (            JS,                     2012       )
-- http://www.julien-dubois.com/tudu-lists             (            JavaEE/Spring, v3.0,               )
-- https://github.com/flosse/FAST/                     (AGPLv3,     JS,            v0.0.0   2011       )
-- https://github.com/jchris/taskr/                    (            JS/CouchDB,             2010       )
-- http://nexty.org/                                   (BSD,        PHP,                    2010       )
-- http://todolist.sourceforge.net/                    (GPL,        PHP,                    2010       )
-- http://www.gtd-php.com/                             (            PHP,           v0.8,    2008       )
-- https://code.google.com/p/trimpath/wiki/NextAction  (Apache 2.0, GoogleGears,            2010       )
-- https://github.com/eromba/taskstep                  (LGPL,       PHP,                    2012       )
+  [demo](http://www.mytinytodo.net/demo/)             (GPLv3,      PHP,           v1.4.2,  2011)
+- http://www.taskfreak.com/                           (GPLv3,      PHP,           v0.6.4   2010)
+- http://collabtive.o-dyn.de/                         (GPL,        PHP,           v0.7.6,  2012)
+- http://www.dotproject.net/                          (            PHP,           v2.1.5       )
+- http://addyosmani.github.com/todomvc/               (            JS,                     2012)
+- http://www.julien-dubois.com/tudu-lists             (            JavaEE/Spring, v3.0,        )
+- https://github.com/flosse/FAST/                     (AGPLv3,     JS,            v0.0.0,  2011)
+- https://github.com/jchris/taskr/                    (            JS/CouchDB,             2010)
+- http://nexty.org/                                   (BSD,        PHP,                    2010)
+- http://todolist.sourceforge.net/                    (GPL,        PHP,                    2010)
+- http://www.gtd-php.com/                             (            PHP,           v0.8,    2008)
+- https://code.google.com/p/trimpath/wiki/NextAction  (Apache 2.0, GoogleGears,            2010)
+- https://github.com/eromba/taskstep                  (LGPL,       PHP,                    2012)
+- https://github.com/arago/rike                       (MIT,        Java,          v4.0,    2012)
 
 ### Closed Source
 
@@ -121,6 +122,9 @@ Here are some criteria:
     - reminders
     - life balance
     - timetracker / pomodoro
+    - calendar
+    - GTD / Kanban / Scrum / etc.
+    - bug / issue tracking
 
 - technical
     - language / plattform

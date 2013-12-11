@@ -35,6 +35,8 @@ So go ahead and **add your links, ideas and thoughts**
 - https://code.google.com/p/trimpath/wiki/NextAction  (Apache 2.0, GoogleGears,            2010)
 - https://github.com/eromba/taskstep                  (LGPL,       PHP,                    2012)
 - https://github.com/arago/rike                       (MIT,        Java,          v4.0,    2012)
+- https://github.com/jh3y/tyto,
+  ([demo](http://jh3y.github.io/tyto))                (            JS/CS,                  2013)
 
 ### Closed Source
 

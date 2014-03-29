@@ -104,6 +104,7 @@ So go ahead and **add your links, ideas and thoughts**
 - https://www.lifetick.com/
 - http://www.getsmartq.com/
 - https://www.trello.com/
+- https://www.fruux.com/
 
 
 ## Criteria

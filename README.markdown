@@ -19,14 +19,17 @@ So go ahead and **add your links, ideas and thoughts**
 ### Open Source
 
 - http://getontracks.org/,
-  https://github.com/TracksApp                        (GPLv2,      Ruby, v2.1,             2012)
+  https://github.com/TracksApp                        (GPLv2,      Ruby, v2.2,             2013)
 - http://www.mytinytodo.net/,
-  [demo](http://www.mytinytodo.net/demo/)             (GPLv3,      PHP,           v1.4.2,  2011)
+  [demo](http://www.mytinytodo.net/demo/)             (GPLv3,      PHP,           v1.4.3,  2014)
 - http://www.taskfreak.com/                           (GPLv3,      PHP,           v0.6.4   2010)
-- http://collabtive.o-dyn.de/                         (GPL,        PHP,           v0.7.6,  2012)
-- http://www.dotproject.net/                          (            PHP,           v2.1.5       )
-- http://addyosmani.github.com/todomvc/               (            JS,                     2012)
-- http://www.julien-dubois.com/tudu-lists             (            JavaEE/Spring, v3.0,        )
+- http://collabtive.o-dyn.de/,
+  https://github.com/philippK-de/Collabtive           (GPL,        PHP,           v1.2.0,  2014)
+- http://www.dotproject.net/                          (            PHP,           v2.1.7,  2012)
+- http://todomvc.com/,
+  https://github.com/tastejs/todomvc                  (MIT,        JS,            v1.2     2014)
+- http://www.julien-dubois.com/tudu-lists
+  https://github.com/jdubois/Tudu-Lists,              (            JavaEE/Spring, v3.0,        )
 - https://github.com/flosse/FAST/                     (AGPLv3,     JS,            v0.0.0,  2011)
 - https://github.com/jchris/taskr/                    (            JS/CouchDB,             2010)
 - http://nexty.org/                                   (BSD,        PHP,                    2010)
@@ -36,7 +39,7 @@ So go ahead and **add your links, ideas and thoughts**
 - https://github.com/eromba/taskstep                  (LGPL,       PHP,                    2012)
 - https://github.com/arago/rike                       (MIT,        Java,          v4.0,    2012)
 - https://github.com/jh3y/tyto,
-  ([demo](http://jh3y.github.io/tyto))                (            JS/CS,                  2013)
+  ([demo](http://jh3y.github.io/tyto))                (MIT,        JS/CS,         v1.2     2014)
 
 ### Closed Source
 

@@ -42,6 +42,9 @@ So go ahead and **add your links, ideas and thoughts**
   ([demo](http://jh3y.github.io/tyto))                (MIT,        JS/CS,         v1.2     2014)
 - https://pinitto.me/,
   https://github.com/pinittome/pinitto.me             (Apache,     JS/MongoDB,    v0.92,   2014)
+- http://kanboard.net/,
+  https://github.com/fguillot/kanboard/               (AGPLv3,     PHP,           v1.0.4,  2014)
+
 ### Closed Source
 
 - https://todoist.com/html5

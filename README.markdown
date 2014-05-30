@@ -44,6 +44,7 @@ So go ahead and **add your links, ideas and thoughts**
   https://github.com/pinittome/pinitto.me             (Apache,     JS/MongoDB,    v0.92,   2014)
 - http://kanboard.net/,
   https://github.com/fguillot/kanboard/               (AGPLv3,     PHP,           v1.0.4,  2014)
+- https://laverna.cc/                                 (GPLv3,      JS,            v0.5,    2014)
 
 ### Closed Source
 

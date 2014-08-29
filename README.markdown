@@ -24,7 +24,7 @@ So go ahead and **add your links, ideas and thoughts**
   [demo](http://www.mytinytodo.net/demo/)             (GPLv3,      PHP,           v1.4.3,  2014)
 - http://www.taskfreak.com/                           (GPLv3,      PHP,           v0.6.4   2010)
 - http://collabtive.o-dyn.de/,
-  https://github.com/philippK-de/Collabtive           (GPL,        PHP,           v1.2.0,  2014)
+  https://github.com/philippK-de/Collabtive           (GPL,        PHP,           v2.0.0,  2014)
 - http://www.dotproject.net/                          (            PHP,           v2.1.7,  2012)
 - http://todomvc.com/,
   https://github.com/tastejs/todomvc                  (MIT,        JS,            v1.2     2014)
@@ -44,7 +44,9 @@ So go ahead and **add your links, ideas and thoughts**
   https://github.com/pinittome/pinitto.me             (Apache,     JS/MongoDB,    v0.92,   2014)
 - http://kanboard.net/,
   https://github.com/fguillot/kanboard/               (AGPLv3,     PHP,           v1.0.4,  2014)
+- https://github.com/somlor/kanban                    (MIT,        Rails/JS                    )
 - https://laverna.cc/                                 (GPLv3,      JS,            v0.5,    2014)
+- https://github.com/MartinSGill/TodoTxtJs            (MIT,        JS,            v1.4,    2014)
 
 ### Closed Source
 
@@ -114,6 +116,7 @@ So go ahead and **add your links, ideas and thoughts**
 - https://www.trello.com/
 - https://www.fruux.com/
 - https://redbooth.com/
+- https://todo.projectplace.com/
 
 
 ## Criteria

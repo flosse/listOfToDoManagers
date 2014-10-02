@@ -47,6 +47,7 @@ So go ahead and **add your links, ideas and thoughts**
 - https://github.com/somlor/kanban                    (MIT,        Rails/JS                    )
 - https://laverna.cc/                                 (GPLv3,      JS,            v0.5,    2014)
 - https://github.com/MartinSGill/TodoTxtJs            (MIT,        JS,            v1.4,    2014)
+- https://taiga.io/                                   (AGPLv3,     Python/JS,              2014)
 
 ### Closed Source
 

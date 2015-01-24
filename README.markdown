@@ -48,6 +48,7 @@ So go ahead and **add your links, ideas and thoughts**
 - https://laverna.cc/                                 (GPLv3,      JS,            v0.5,    2014)
 - https://github.com/MartinSGill/TodoTxtJs            (MIT,        JS,            v1.4,    2014)
 - https://taiga.io/                                   (AGPLv3,     Python/JS,              2014)
+- http://git.libreboard.com/libreboard/libreboard/    (MIT,        JS/Meteor,     v0.7.1   2015)
 
 ### Closed Source
 

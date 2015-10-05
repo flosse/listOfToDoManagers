@@ -125,6 +125,8 @@ So go ahead and **add your links, ideas and thoughts**
 - https://www.activecollab.com/
 - https://www.stackfield.com/
 - https://kantree.io/
+- http://faqt.co/
+- https://www.someone.io/
 
 ## Criteria
 
